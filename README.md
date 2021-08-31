@@ -26,4 +26,7 @@ Narrowed DataFrame to find ideal weather conditions such as: max temperature low
 
 ![Hotels](https://user-images.githubusercontent.com/83611005/131520868-201a6c96-dd7e-43a8-ad59-798bb3050efe.png)
 
+![Hotels](https://user-images.githubusercontent.com/83611005/131529426-9f566575-1224-4233-9448-7f8aa7f25c30.png)
+
+
 
